@@ -1,0 +1,23 @@
+# .gitignore
+
+node_modules/
+build/
+dist/
+*.log
+.env
+.DS_Store
+.idea
+.vscode
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/public/pwa/
+/public/site.webmanifest
+/public/favicon.ico
+/public/logo192.png
+/public/logo512.png
+/public/manifest.json
+/public/robots.txt
+/public/favicon.ico
+/public/index.html
+coverage/
